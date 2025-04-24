@@ -1,5 +1,5 @@
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=F7C537&width=600&lines=Hallo,+ich+bin+Stevan!;Junior+Full-Stack+%26+DevOps+Engineer+🚀;Cloud+Automation+☁;Infrastructure+as+Code+🔧)](https://github.com/Clickybunty)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=F7C537&width=600&lines=Hallo,+ich+bin+Farugh!;Junior+Full-Stack+%26+DevOps+Engineer+🚀;Cloud+Automation+☁;Infrastructure+as+Code+🔧)](https://github.com/Back-2-Basic)
 
 🔹 **Fachinformatiker für Anwendungsentwicklung**  
 🔹 Leidenschaft für moderne Webentwicklung, DevOps und kreative Tech-Projekte  
@@ -7,12 +7,12 @@
 
 ---
 
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Clickybunty&show_icons=true&theme=transparent&border_color=ffffff) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Clickybunty&layout=compact&theme=transparent&border_color=ffffff)](https://github.com/Clickybunty/github-readme-stats) |
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Back-2-Basic&show_icons=true&theme=transparent&border_color=ffffff) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Back-2-Basic&layout=compact&theme=transparent&border_color=ffffff)](https://github.com/Back-2-Basic/github-readme-stats) |
 |--------------|--------------|
 
 ---
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Clickybunty&theme=transparent)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Back-2-Basic&theme=transparent)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
@@ -24,18 +24,7 @@
 
 ## 📂 Projekte
 
-🔹 [NoSpices](https://github.com/Clickybunty/nospices)  
-➡️ Mehrsprachige Rezeptsuche mit React, Node.js und MariaDB
-
-🔹 [Collatz](https://clickybunty.github.io/Collatz/)  
-➡️ Mathematische Analyse zur Collatz-Vermutung als TeX-Dokumentation
-
-🔹 [SecureComm](https://github.com/Clickybunty/SecureComm)  
-➡️ Sichere Peer-to-Peer-Kommunikationsplattform mit OAuth2-Login und WebRTC
-
----
-
 ## 📫 Kontakt
 
-💼 LinkedIn: [linkedin.com/in/stevan-menicanin-701b6059](https://www.linkedin.com/in/stevan-menicanin-701b6059/)  
+💼 LinkedIn: www.linkedin.com/in/me-at-linkd-in  
 🌐 get-in-IT: [Profil ansehen](https://www.get-in-it.de/profil/9StRWbKTpiAr3Wp88dC2XPXhu8abmedz)
